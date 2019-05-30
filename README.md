@@ -75,7 +75,7 @@ ev3dev in Visual Studio Code using the Python programming language.
 18. Open the source code file, `hello.py`, to learn more.
 
 
-## Code Completion
+## Code Completion phase
 
 To get code completion working and fix errors like "Unable to import 'ev3dev2.motor'"
 you will need to install Python and the `python-ev3dev` package on your computer.
